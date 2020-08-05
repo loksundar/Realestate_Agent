@@ -1,0 +1,5 @@
+In a city of your choice, if someone is looking to open a restaurant, where would you recommend that they open it?
+Similarly, if a contractor is trying to start their own business, where would you recommend that they setup their office?
+These are the questions answered by my system after completion of project .
+It will take the surroundings places of your desired location and cluster them into categories .
+if you want to put a gas station it will select the location where to put gas station like that it will be helpful. 
